@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
+
+.logo{
+    background: url("../images/monkee-mast.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 450px;
+    min-width: 200px;
+    margin-top: 20px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
